@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**GaoNoL1Water/GaoNoL1Water** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+| 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|这个作业要求在哪里| https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/homework/13478 |
+
+| 这个作业的目标 | 自我介绍，学习markdown格式 |
+
+一、自我介绍​
+
+我是 2023 级计算机科学与技术专业 3 班的刘任浩，来自广东佛山。​
+
+1.我的兴趣爱好​
+
+日常喜欢跑步、听音乐、看小说 —— 跑步时能让思绪放空，听音乐能舒缓学习后的疲惫，看小说则能在文字世界里感受不同的故事。​
+
+2.我的学习经历​
+
+学习过 C、Java 语言，了解Linux的基础知识以及html
+
+二、阅读教材后的疑问​
+
+1.软件工程的核心目标是什么？
+2.软件工程与其他计算机科目而言，最本质的区别是什么？
+3.面向对象的开发语言的优势是什么？
+4.在需求分析阶段，推荐使用的核心工具有哪些？
+5.AI辅助编程对传统的开发流程的影响有哪些？
+
+三、我想得到的收获​
+
+1.掌握软件工程核心流程与规范，明确需求分析、设计、开发、测试等各阶段的关键任务与方法；
+
+2.理解软件架构设计思路，能辨别不同架构的适用场景，为后续设计软件打下基础；
+
+3.熟悉软件工程发展脉络，了解行业主流技术与工具的演变，建立系统的学科认知；
